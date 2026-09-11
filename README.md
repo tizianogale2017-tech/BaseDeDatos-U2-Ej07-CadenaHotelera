@@ -1,6 +1,6 @@
-# BaseDeDatos-U1-Ej07-CadenaHotelera
+# BaseDeDatos-U2-Ej07-CadenaHotelera
 
-Base de Datos - Unidad 1 - Ejercicio 7
+Base de Datos - Unidad 2 - Ejercicio 7
 
 Consigna
 
